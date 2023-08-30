@@ -1,1 +1,6 @@
 c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\bin\Debug\Buoi03.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\bin\Debug\Buoi03.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\bin\Debug\Buoi03.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\obj\Debug\Buoi03.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\obj\Debug\Buoi03.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi03\Buoi03\obj\Debug\Buoi03.pdb

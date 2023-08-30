@@ -10,6 +10,9 @@ namespace Buoi03
     {
         static void Main(string[] args)
         {
+            Student student = new Student();
+            student.sum();
+            Console.ReadLine();
         }
     }
 }

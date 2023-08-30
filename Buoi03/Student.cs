@@ -10,6 +10,12 @@ namespace Buoi03
     {
         private int _id;
         private int _name;
+
+        public int sum()
+        {
+            Console.WriteLine("result sum!");
+            return 0;
+        }
         
     }
 }
